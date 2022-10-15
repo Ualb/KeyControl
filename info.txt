@@ -1,0 +1,8 @@
+manifest.json 
+    es para definir recursos, permisos y metadata (debe estar en el root)
+service worker
+    maneja y esta al escucha del navegador, tambien accede a ChromeAPIS
+content scripts 
+    se encarga de interactuar con el contenido de la pagina
+popup
+    es el html que muestra las configuraciones de la extencions
